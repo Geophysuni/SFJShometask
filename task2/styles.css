@@ -1,0 +1,10 @@
+body{
+    margin-left: 50%;
+    margin-right: 50%;
+    width: 300px;
+}
+
+p{
+    border: 1px;
+    border-style:dashed;
+}
